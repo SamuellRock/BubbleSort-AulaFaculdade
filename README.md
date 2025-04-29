@@ -1,4 +1,4 @@
-# 🫧 Bubble Sort: O Herói Lento que Ninguém Pediu
+# 🫧 Bubble Sort
 
 ---
 
